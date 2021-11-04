@@ -3,5 +3,3 @@ export function createElemWithClasses(elemName, classList) {
   elem.classList.add(...classList);
   return elem;
 }
-
-
